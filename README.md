@@ -13,4 +13,4 @@ Details:
     1. There will be a total of four cards.
     2. The chess pie will be hidden under a square card.
     3. If you find the chess pie there will be a message saying "You win!".
-    4. You only get two turns [dun dun dun]. 
+    4. You only get two turns [dun dun duuuuun]. 
